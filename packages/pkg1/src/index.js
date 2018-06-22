@@ -1,0 +1,1 @@
+export const getSomeStuffFromPkg1 = () => 'Some stuff from pkg1'
