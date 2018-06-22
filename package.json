@@ -1,0 +1,24 @@
+{
+  "name": "jest-babel-7-windows",
+  "version": "1.0.0",
+  "description": "Search why it does not work and what is going on when using jest and babel 7 on windows",
+  "repository": "https://github.com/Yuket/jest-babel-7-windows.git",
+  "author": "HUCHET Mathieu <m.huchet@groupeonepoint.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "devDependencies": {
+    "@babel/core": "7.0.0-beta.51",
+    "@babel/preset-env": "^7.0.0-beta.51",
+    "babel-core": "7.0.0-bridge.0",
+    "babel-jest": "23.0.1",
+    "jest": "^23.1.0"
+  }
+}
