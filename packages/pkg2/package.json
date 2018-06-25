@@ -1,0 +1,8 @@
+{
+  "name": "pkg2",
+  "version": "1.0.0",
+  "description": "First sub-package",
+  "repository": "https://github.com/Yuket/jest-babel-7-windows.git",
+  "author": "HUCHET Mathieu <m.huchet@groupeonepoint.com>",
+  "license": "MIT"
+}
